@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
-<h3 align="center">Jr. Java/Scala Developer from Turkey</h3>
+<h3 align="center">Java Developer from Turkey</h3>
 
 - 🔭 I’m currently working on [WebScrapeAnime-Recommendation](https://github.com/efegulcan/WebScrapeAnime-Recommendation)
 
