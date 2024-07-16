@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on [AirlineCustomerSegmentation]([https://github.com/efegulcan/WebScrapeAnime-Recommendation](https://github.com/efegulcan/AirlineCustomerSegmentation))
+- 🔭 I’m currently working on [AirlineCustomerSegmentation]([https://github.com/efegulcan/WebScrapeAnime-Recommendation](https://github.com/efegulcan/AirlineCustomerSegmentation)
 
 - 🌱 I’m currently learning **Data Engineering fundamentals**
 
